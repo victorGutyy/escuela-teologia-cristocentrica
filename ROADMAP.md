@@ -12,7 +12,7 @@ elemental, alineado a la doctrina Unicitaria del Nombre de Jesús— antes de
 continuar, en vez de repetir un tema ya cubierto.
 
 - [x] El nombre de Jesús en el bautismo (Hechos 2:38) — Semana 1
-- [ ] La unicidad de Dios (Deuteronomio 6:4; Isaías 44:6; 45:5)
+- [x] La unicidad de Dios (Deuteronomio 6:4; Isaías 44:6; 45:5) — Semana 2
 - [ ] Jesucristo: la plenitud de la Deidad manifestada en carne (Colosenses 2:9; 1 Timoteo 3:16; Juan 1:1,14)
 - [ ] El nuevo nacimiento: agua y Espíritu (Juan 3:3-5; Hechos 2:38)
 - [ ] El bautismo del Espíritu Santo con la señal de las lenguas (Hechos 2:4; 10:44-46; 19:6)

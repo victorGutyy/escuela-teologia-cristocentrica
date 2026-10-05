@@ -17,7 +17,7 @@ continuar, en vez de repetir un tema ya cubierto.
 - [x] El nuevo nacimiento: agua y Espíritu (Juan 3:3-5; Hechos 2:38) — Semana 4
 - [x] El bautismo del Espíritu Santo con la señal de las lenguas (Hechos 2:4; 10:44-46; 19:6) — Semana 5
 - [x] El arrepentimiento genuino (Lucas 13:3; Hechos 3:19; 2 Corintios 7:10) — Semana 6
-- [ ] La santidad como estilo de vida (1 Pedro 1:15-16; Hebreos 12:14)
+- [x] La santidad como estilo de vida (1 Pedro 1:15-16; Hebreos 12:14) — Semana 7
 - [ ] La autoridad y suficiencia de las Escrituras (2 Timoteo 3:16-17; Salmo 119:105)
 - [ ] La gracia, la fe y la obediencia (Efesios 2:8-9; Santiago 2:17; Romanos 1:5)
 - [ ] Cristo prefigurado en el Antiguo Testamento: las teofanías (Éxodo 3:2-6; Jueces 13:17-22; Isaías 9:6)

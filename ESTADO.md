@@ -9,5 +9,6 @@
 | 5      | Doctrina | El bautismo del Espíritu Santo con la señal de las lenguas (Hechos 2:4; 10:44-46; 19:6) | 2026-09-21  | [entregas/EscuelaTeologia_S5_DOCTRINA_bautismo-del-espiritu-santo-senal-de-lenguas.pdf](entregas/EscuelaTeologia_S5_DOCTRINA_bautismo-del-espiritu-santo-senal-de-lenguas.pdf) |
 | 6      | Enseñanza | El arrepentimiento genuino (Lucas 13:3; Hechos 3:19; 2 Corintios 7:10) | 2026-09-28  | [entregas/EscuelaTeologia_S6_ENSENANZA_el-arrepentimiento-genuino.pdf](entregas/EscuelaTeologia_S6_ENSENANZA_el-arrepentimiento-genuino.pdf) |
 | 7      | Doctrina | La santidad como estilo de vida (1 Pedro 1:15-16; Hebreos 12:14) | 2026-10-05  | [entregas/EscuelaTeologia_S7_DOCTRINA_la-santidad-como-estilo-de-vida.pdf](entregas/EscuelaTeologia_S7_DOCTRINA_la-santidad-como-estilo-de-vida.pdf) |
+| 8      | Enseñanza | La autoridad y suficiencia de las Escrituras (2 Timoteo 3:16-17; Salmo 119:105) | 2026-10-12  | [entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf](entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf) |
 
-**Próxima entrega:** Semana 8 · Enseñanza · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).
+**Próxima entrega:** Semana 9 · Doctrina · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).

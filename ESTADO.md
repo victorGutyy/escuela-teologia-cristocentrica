@@ -10,5 +10,6 @@
 | 6      | Enseñanza | El arrepentimiento genuino (Lucas 13:3; Hechos 3:19; 2 Corintios 7:10) | 2026-09-28  | [entregas/EscuelaTeologia_S6_ENSENANZA_el-arrepentimiento-genuino.pdf](entregas/EscuelaTeologia_S6_ENSENANZA_el-arrepentimiento-genuino.pdf) |
 | 7      | Doctrina | La santidad como estilo de vida (1 Pedro 1:15-16; Hebreos 12:14) | 2026-10-05  | [entregas/EscuelaTeologia_S7_DOCTRINA_la-santidad-como-estilo-de-vida.pdf](entregas/EscuelaTeologia_S7_DOCTRINA_la-santidad-como-estilo-de-vida.pdf) |
 | 8      | Enseñanza | La autoridad y suficiencia de las Escrituras (2 Timoteo 3:16-17; Salmo 119:105) | 2026-10-12  | [entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf](entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf) |
+| 9      | Doctrina | La gracia, la fe y la obediencia (Efesios 2:8-9; Santiago 2:17; Romanos 1:5) | 2026-10-19  | [entregas/EscuelaTeologia_S9_DOCTRINA_la-gracia-la-fe-y-la-obediencia.pdf](entregas/EscuelaTeologia_S9_DOCTRINA_la-gracia-la-fe-y-la-obediencia.pdf) |
 
-**Próxima entrega:** Semana 9 · Doctrina · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).
+**Próxima entrega:** Semana 10 · Enseñanza · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).

@@ -19,7 +19,7 @@ continuar, en vez de repetir un tema ya cubierto.
 - [x] El arrepentimiento genuino (Lucas 13:3; Hechos 3:19; 2 Corintios 7:10) — Semana 6
 - [x] La santidad como estilo de vida (1 Pedro 1:15-16; Hebreos 12:14) — Semana 7
 - [x] La autoridad y suficiencia de las Escrituras (2 Timoteo 3:16-17; Salmo 119:105) — Semana 8
-- [ ] La gracia, la fe y la obediencia (Efesios 2:8-9; Santiago 2:17; Romanos 1:5)
+- [x] La gracia, la fe y la obediencia (Efesios 2:8-9; Santiago 2:17; Romanos 1:5) — Semana 9
 - [ ] Cristo prefigurado en el Antiguo Testamento: las teofanías (Éxodo 3:2-6; Jueces 13:17-22; Isaías 9:6)
 - [ ] La resurrección de Cristo (1 Corintios 15:1-22)
 - [ ] La segunda venida de Cristo (Hechos 1:11; 1 Tesalonicenses 4:16-17)

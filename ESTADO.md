@@ -12,5 +12,6 @@
 | 8      | Enseñanza | La autoridad y suficiencia de las Escrituras (2 Timoteo 3:16-17; Salmo 119:105) | 2026-10-12  | [entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf](entregas/EscuelaTeologia_S8_ENSENANZA_autoridad-y-suficiencia-de-las-escrituras.pdf) |
 | 9      | Doctrina | La gracia, la fe y la obediencia (Efesios 2:8-9; Santiago 2:17; Romanos 1:5) | 2026-10-19  | [entregas/EscuelaTeologia_S9_DOCTRINA_la-gracia-la-fe-y-la-obediencia.pdf](entregas/EscuelaTeologia_S9_DOCTRINA_la-gracia-la-fe-y-la-obediencia.pdf) |
 | 10     | Enseñanza | Cristo prefigurado en el Antiguo Testamento: las teofanías (Éxodo 3:2-6; Jueces 13:17-22; Isaías 9:6) | 2026-10-26  | [entregas/EscuelaTeologia_S10_ENSENANZA_cristo-en-el-antiguo-testamento-las-teofanias.pdf](entregas/EscuelaTeologia_S10_ENSENANZA_cristo-en-el-antiguo-testamento-las-teofanias.pdf) |
+| 11     | Doctrina | La resurrección de Cristo (1 Corintios 15:1-22) | 2026-11-02  | [entregas/EscuelaTeologia_S11_DOCTRINA_la-resurreccion-de-cristo.pdf](entregas/EscuelaTeologia_S11_DOCTRINA_la-resurreccion-de-cristo.pdf) |
 
-**Próxima entrega:** Semana 11 · Doctrina · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).
+**Próxima entrega:** Semana 12 · Enseñanza · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).

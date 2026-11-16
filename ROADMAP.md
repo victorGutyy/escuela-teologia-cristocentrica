@@ -23,7 +23,7 @@ continuar, en vez de repetir un tema ya cubierto.
 - [x] Cristo prefigurado en el Antiguo Testamento: las teofanías (Éxodo 3:2-6; Jueces 13:17-22; Isaías 9:6) — Semana 10
 - [x] La resurrección de Cristo (1 Corintios 15:1-22) — Semana 11
 - [x] La segunda venida de Cristo (Hechos 1:11; 1 Tesalonicenses 4:16-17) — Semana 12
-- [ ] El juicio final (Apocalipsis 20:11-15; 2 Corintios 5:10)
+- [x] El juicio final (Apocalipsis 20:11-15; 2 Corintios 5:10) — Semana 13
 - [ ] La iglesia como cuerpo de Cristo (1 Corintios 12:12-27; Efesios 1:22-23)
 - [ ] La oración y el ayuno (Mateo 6:5-18; Hechos 13:2-3)
 - [ ] La mayordomía y las ofrendas (Malaquías 3:10; 2 Corintios 9:6-7)

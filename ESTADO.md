@@ -14,5 +14,6 @@
 | 10     | Enseñanza | Cristo prefigurado en el Antiguo Testamento: las teofanías (Éxodo 3:2-6; Jueces 13:17-22; Isaías 9:6) | 2026-10-26  | [entregas/EscuelaTeologia_S10_ENSENANZA_cristo-en-el-antiguo-testamento-las-teofanias.pdf](entregas/EscuelaTeologia_S10_ENSENANZA_cristo-en-el-antiguo-testamento-las-teofanias.pdf) |
 | 11     | Doctrina | La resurrección de Cristo (1 Corintios 15:1-22) | 2026-11-02  | [entregas/EscuelaTeologia_S11_DOCTRINA_la-resurreccion-de-cristo.pdf](entregas/EscuelaTeologia_S11_DOCTRINA_la-resurreccion-de-cristo.pdf) |
 | 12     | Enseñanza | La segunda venida de Cristo (Hechos 1:11; 1 Tesalonicenses 4:16-17) | 2026-11-09  | [entregas/EscuelaTeologia_S12_ENSENANZA_la-segunda-venida-de-cristo.pdf](entregas/EscuelaTeologia_S12_ENSENANZA_la-segunda-venida-de-cristo.pdf) |
+| 13     | Doctrina | El juicio final (Apocalipsis 20:11-15; 2 Corintios 5:10) | 2026-11-16  | [entregas/EscuelaTeologia_S13_DOCTRINA_el-juicio-final.pdf](entregas/EscuelaTeologia_S13_DOCTRINA_el-juicio-final.pdf) |
 
-**Próxima entrega:** Semana 13 · Doctrina · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).
+**Próxima entrega:** Semana 14 · Enseñanza · tema = primer pendiente `[ ]` en [`ROADMAP.md`](ROADMAP.md).

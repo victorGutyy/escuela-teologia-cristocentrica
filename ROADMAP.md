@@ -24,7 +24,7 @@ continuar, en vez de repetir un tema ya cubierto.
 - [x] La resurrección de Cristo (1 Corintios 15:1-22) — Semana 11
 - [x] La segunda venida de Cristo (Hechos 1:11; 1 Tesalonicenses 4:16-17) — Semana 12
 - [x] El juicio final (Apocalipsis 20:11-15; 2 Corintios 5:10) — Semana 13
-- [ ] La iglesia como cuerpo de Cristo (1 Corintios 12:12-27; Efesios 1:22-23)
+- [x] La iglesia como cuerpo de Cristo (1 Corintios 12:12-27; Efesios 1:22-23) — Semana 14
 - [ ] La oración y el ayuno (Mateo 6:5-18; Hechos 13:2-3)
 - [ ] La mayordomía y las ofrendas (Malaquías 3:10; 2 Corintios 9:6-7)
 - [ ] El matrimonio y la familia según el diseño bíblico (Efesios 5:22-33; Génesis 2:24)
